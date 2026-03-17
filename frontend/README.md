@@ -1,4 +1,4 @@
-﻿# TruthLens Prototype (Groq Only)
+﻿# Credible Chronicles (Groq Only)
 
 A fast, judge-ready prototype that combines instant risk signals with Groq-powered reasoning.
 
